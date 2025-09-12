@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\bin\Debug\ejer 3 s3.exe.config
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\bin\Debug\ejer 3 s3.exe
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\bin\Debug\ejer 3 s3.pdb
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\obj\Debug\ejer 3 s3.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\obj\Debug\ejer 3 s3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\obj\Debug\ejer 3 s3.exe
+C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 s3\ejer 3 s3\obj\Debug\ejer 3 s3.pdb
