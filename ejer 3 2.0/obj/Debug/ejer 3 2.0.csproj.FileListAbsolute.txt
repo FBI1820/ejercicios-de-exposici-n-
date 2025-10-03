@@ -1,7 +1,0 @@
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\obj\Debug\ejer 3 2.0.csproj.AssemblyReference.cache
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\obj\Debug\ejer 3 2.0.csproj.CoreCompileInputs.cache
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\bin\Debug\ejer 3 2.0.exe.config
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\bin\Debug\ejer 3 2.0.exe
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\bin\Debug\ejer 3 2.0.pdb
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\obj\Debug\ejer 3 2.0.exe
-C:\Users\DELL\OneDrive\Desktop\C# Sem2\ejer 3 2.0\ejer 3 2.0\obj\Debug\ejer 3 2.0.pdb
